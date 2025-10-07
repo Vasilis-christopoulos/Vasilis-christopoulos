@@ -1,6 +1,6 @@
 Hey there, I'm Vasilis! 👋  
 I'm a Computer Science graduate from Greece 🇬🇷, now pursuing a Master of Management in Analytics at McGill University in Montreal 🇨🇦. 
-My focus lies in **machine learning and data analytics**, where I explore how data and models can drive meaningful impact. 
+My focus lies in **data & AI**, where I explore how data and models can drive meaningful impact. 
 Through projects in sales forecasting, AI assistants, and predictive modeling, 
 I’ve been building the technical and analytical toolkit needed to turn complex datasets into actionable insights.
 
